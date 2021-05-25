@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sampleName">Sample Name</string>
+    <string name="sampleplaytime">99H</string>
+    <string name="hours">%1$d H</string>
+</resources>

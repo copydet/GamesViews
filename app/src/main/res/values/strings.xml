@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">GamesViews</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="sampleText">SampleText</string>
+    <string name="released">Release Date :</string>
+    <string name="textDate">27/01/2000</string>
+    <string name="textRating">Rating :</string>
+    <string name="sampleRating">4.89</string>
+    <string name="menu_wishlist">Wish List</string>
+    <string name="genre">Genre</string>
+    <string name="description">Description</string>
+    <string name="website">Website</string>
+    <string name="sampleText2">SampleSubtitle</string>
+    <string name="list_games">List Games</string>
+    <string name="update">Update :</string>
+    <string name="something_wrong">Something Wrong !</string>
+    <string name="no_data">Kamu Belum Menambahkan Item</string>
+    <string name="title_wishlist">WishList</string>
+</resources>
